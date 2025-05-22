@@ -51,5 +51,6 @@ Dado que el 75% de los casos terminan en consumo real, se recomienda mejorar la 
 optimizan los costos operativos, sino que son fundamentales para garantizar la seguridad del paciente y una experiencia del cliente excepcional.
 ---
 
-
+## IMAGENES 
+![image](https://github.com/user-attachments/assets/b0583c88-70c0-4a44-90a3-93ac6358ccc2)
 
