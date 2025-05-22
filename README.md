@@ -1,4 +1,4 @@
-## warehouse
+#  warehouse  💼📦
 
 # LOANER Dashboard Insights 💼📦
 
@@ -53,4 +53,7 @@ optimizan los costos operativos, sino que son fundamentales para garantizar la s
 
 ## IMAGENES 
 ![image](https://github.com/user-attachments/assets/b0583c88-70c0-4a44-90a3-93ac6358ccc2)
+
+![image](https://github.com/user-attachments/assets/1d019a84-5c44-4ab6-88bd-3164a0cf9306)
+
 
