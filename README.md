@@ -44,7 +44,7 @@ Auditar el flujo del proceso `Check` para eliminar cuellos de botella.
 ✅ **Trazabilidad + Planificación de inventario:**  
 Dado que el 75% de los casos terminan en consumo real, se recomienda mejorar la precisión en la predicción de demanda.
 
----
+-------
 
 ## 🔍 ¿Por qué importa este análisis?
 💡 En entornos críticos como el sector salud o de dispositivos médicos, la eficiencia y trazabilidad en los procesos Loaner no solo 
